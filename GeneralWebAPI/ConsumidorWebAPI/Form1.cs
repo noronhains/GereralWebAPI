@@ -16,5 +16,15 @@ namespace ConsumidorWebAPI
         {
             InitializeComponent();
         }
+
+        private void btnTesteImagem_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void btnCaminhoImagem_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
